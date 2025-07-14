@@ -1,5 +1,12 @@
-# Bienvenida y objetivos
+# Objetivos
 
-## Presentadores: Julio y Jose
 
-Breve introducción de la exposición y agenda: Spring Boot, comparaciónn con Spring Framework, demo, bean scopes e IA.
+<section>
+  <pre><code data-trim data-noescape>
+(def lazy-fib
+  (concat
+   [0 1]
+   ((fn rfib [a b]
+        (lazy-cons (+ a b) (rfib b (+ a b)))) 0 1)))
+  </code></pre>
+</section>
