@@ -2,7 +2,7 @@
 
 
 <section>
-  <pre><code data-trim data-noescape>
+  <pre><code class="language-clojure" data-trim data-noescape>
 (def lazy-fib
   (concat
    [0 1]
