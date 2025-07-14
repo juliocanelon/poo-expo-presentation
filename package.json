@@ -1,0 +1,18 @@
+{
+  "name": "poo-expo-presentation",
+  "version": "1.0.0",
+  "description": "Proyecto para exposicion para Programacion Orientada a Objetos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "reveal.js": "^4.6.1",
+    "serve": "^14.2.4"
+  }
+}
